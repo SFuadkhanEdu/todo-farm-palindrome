@@ -1,0 +1,10 @@
+*{
+    border: 1px solid black
+}
+body{
+    width: 50%;
+    margin: 0 auto;
+}
+input{
+    width: 99%;
+}
